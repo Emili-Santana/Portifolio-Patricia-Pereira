@@ -79,6 +79,18 @@ p {
   
 }
 
+.content h3 {
+  font-size: 24px !important;
+  line-height: 1.5 !important;
+  font-family: var(--default-font-family) !important;
+    
+  }
+
+
+.content p{
+  font-size: 14px !important;
+    
+  }
 
 .content{
 margin: 30px;
