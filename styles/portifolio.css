@@ -58,7 +58,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: var(--heading-font-family):
+  font-family: var(--heading-font-family);
   font-weight: bold !important;
   color: black;
 }
@@ -139,7 +139,8 @@ p {
 
 .content p{
   font-size: 14px !important;
-    
+
+  
   }
 
 .content{
@@ -193,55 +194,4 @@ box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     padding: 0;
     text-align: center;
   }
-}
-
-
-.email-link {
-  color: var(--branding-color);
-}
-
-
-.container-fluid{
-  background-color: var(--second-color);
-}
-
-
-
-footer {
-  margin: 60px 0;
-}
-
-footer .contact-box {
-  background: var(--second-color)!important;
-  padding: 30px 120px;
-  border-radius: 10px;
-}
-
-footer .contact-box p {
-  margin: 0;
-}
-
-footer .email-link {
-  text-decoration: none;
-  color: black;
-  font-size: 24px;
-}
-
-footer .email-link:hover {
-  color: var(--branding-color);
-}
-
-footer .social-links a {
-  margin: 0 20px;
-  color: var(--branding-color);
-  background: var(--secondary-color);
-  padding: 10px 14px;
-  border-radius: 50%;
-  font-size: 18px;
-  transition: all 100ms ease-in-out;
-}
-
-footer .social-links a:hover {
-  color: white;
-  background: var(--branding-color);
 }
