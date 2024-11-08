@@ -124,21 +124,23 @@ p {
 
 
 .content-container {
-  padding: 60px 60px!important;
+  padding: 60px 20px!important;
   text-align: center!important;
-  
+
 }
 
 .content h3 {
   font-size: 24px !important;
   line-height: 1.5 !important;
   font-family: var(--default-font-family) !important;
+
     
   }
 
 
 .content p{
   font-size: 14px !important;
+ 
 
   
   }
